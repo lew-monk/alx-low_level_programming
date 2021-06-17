@@ -3,6 +3,7 @@
 /**
  * main is a void function since it returns 0
  * it prints out using the printf function
+ * Return: 0 if exited properly, otherwise a 1 or any other
  */
 int main(void)
 {   
