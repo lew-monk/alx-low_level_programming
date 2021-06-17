@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- *Main is a void function since it returns 0
- *It prints out using the printf function
+ * main is a void function since it returns 0
+ * it prints out using the printf function
  */
 int main(void)
 {   
