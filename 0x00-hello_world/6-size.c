@@ -3,7 +3,6 @@
 /**
  * main - prints the sizes of varios data types
  * Return: 0 if no error occured
- * 
 */
 int main(void)
 {
@@ -14,5 +13,3 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
 }
-
-
