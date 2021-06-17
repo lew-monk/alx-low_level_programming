@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/**main returns 0 since the main function is void
-*main prints the sizes of various variables sizes
+/**
+ * main returns 0 since the main function is void
+ * main prints the sizes of various variables sizes
 */
 
-int main(void){
+int main(void)
+{
     printf("Size of a char: %d byte(s)\n", sizeof(char));
     printf("Size of an int: %d byte(s)\n", sizeof(int));
     printf("Size of a long int: %d byte(s)\n", sizeof(long int));
