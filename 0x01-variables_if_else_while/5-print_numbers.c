@@ -9,8 +9,8 @@ int main(void)
 {
 	int i;
 
-	for (i = 48; i < 58; i++)
-		putchar(i);
-	putchar("\n");
+	for (i = 0; i < 10; i++)
+		printf("%d", i);
+	printf("\n");
 	return (0);
 }
