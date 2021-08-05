@@ -19,3 +19,4 @@ int clear_bit(unsigned long int *n, unsigned int index)
 	*n = (~mask & *n); /*niego mask, then I apply &*/
 	return (1);
 }
+
